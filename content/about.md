@@ -1,3 +1,6 @@
+/*
+Title: About this KB
+*/
 This is a topic site created to demonstrate the separation of content from the source code of a node.js static file CMS. 
 
 - 'A quality knowledge base and tutorial on Docker for CIO/CTO or those who want to be.' 
