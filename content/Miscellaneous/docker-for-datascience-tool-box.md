@@ -7,6 +7,7 @@ Resources
 - [All-in-one Docker image for Deep Learning](https://github.com/floydhub/dl-docker)
 - [Site: Floyd - Deep Learning Platform powered by Docker](https://www.floydhub.com/)
 - [Github: Floyd Dockerfiles for Deep Learning/ NLP](https://github.com/floydhub/dockerfiles)
+- [Github: Dockerized DBPedia (Dataset)](https://github.com/dbpedia/Dockerized-DBpedia)
 
 ## Docker Container for Data Science Toolbox (DST)
 
