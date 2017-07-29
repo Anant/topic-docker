@@ -1,0 +1,21 @@
+- Scaling Web & Data Technologies
+- Old Docker Intro Deck
+- Review / Quiz
+    - Docker Machine  / Host / Daemon
+    - Docker Client
+    - Docker Registry
+    - Docker Container
+    - Docker Image
+    - Docker Instance
+
+- Resources
+    - https://www.slideshare.net/AnantCorp/scaling-cloud-web-data-technologies
+    - https://www.slideshare.net/dotCloud/docker-intro-november
+    - https://www.slideshare.net/Docker/docker-101-introduction-to-docker
+    - https://www.slideshare.net/jpetazzo/introduction-docker-linux-containers-lxc
+    - https://www.slideshare.net/giancosta86/introduction-to-docker-43302266
+    - https://rominirani.com/docker-tutorial-series-a7e6ff90a023
+    - http://containertutorials.com/index.html
+    - https://github.com/veggiemonk/awesome-docker
+    - https://prakhar.me/docker-curriculum
+    - http://anant.co/topic.html
