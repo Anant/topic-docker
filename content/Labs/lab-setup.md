@@ -1,6 +1,6 @@
-- Quick Play on the Cloud
-    - http://training.play-with-docker.com
-
+---
+---
+- [Quick Play on the Cloud](http://training.play-with-docker.com)
 - Verify Installation
     - Docker-Machine
         - Create a machine 
@@ -16,7 +16,7 @@
         - Verify that you can run docker-compose
 
 - Resources
-    - https://docs.docker.com/machine/install-machine/
-    - https://docs.docker.com/engine/installation/
-    - https://docs.docker.com/compose/install/
-    - https://rominirani.com/docker-tutorial-series-part-1-installation-7cced0a69353
+    - [Documentation: Install Docker Machine](https://docs.docker.com/machine/install-machine/)
+    - [Documentation: Install Docker Engine](https://docs.docker.com/engine/installation/)
+    - [Documentation: Install Docker Compose](https://docs.docker.com/compose/install/)
+    - [Blog: Article: Docker Installation](https://rominirani.com/docker-tutorial-series-part-1-installation-7cced0a69353)
