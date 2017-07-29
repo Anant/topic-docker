@@ -1,3 +1,6 @@
+/*
+Sort: 2
+*/
 ---
 ---
 ## Lab: Hands On: Getting Familiar with Multiple Docker Processes (deploy different Databases, APIs, and Apps)

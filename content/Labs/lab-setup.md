@@ -1,3 +1,7 @@
+/*
+Sort: 1
+*/
+
 ---
 ---
 - [Quick Play on the Cloud](http://training.play-with-docker.com)
