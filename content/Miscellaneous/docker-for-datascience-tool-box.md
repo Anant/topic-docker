@@ -1,5 +1,13 @@
----
----
+Any of the tools used in Data Science can be dockerized. Here are some resources to see how and one container in particular is highlighted below. 
+
+Resources
+- [Github: Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks)
+- [Article: Quickstart Docker Image for Data Science](https://medium.com/towards-data-science/my-quick-start-docker-image-for-data-science-6bffb5dbac31)
+- [Github: Data Science Docker](https://github.com/Btibert3/datasci-docker)
+- [All-in-one Docker image for Deep Learning](https://github.com/floydhub/dl-docker)
+- [Site: Floyd - Deep Learning Platform powered by Docker](https://www.floydhub.com/)
+- [Github: Floyd Dockerfiles for Deep Learning/ NLP](https://github.com/floydhub/dockerfiles)
+
 ## Docker Container for Data Science Toolbox (DST)
 
 This docker container is to make all data science tools available in a container to start your data science work in seconds.
