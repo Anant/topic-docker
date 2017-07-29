@@ -1,6 +1,6 @@
 ---
 ---
-Hands On: Running a Complex Docker Compose
+## Hands On: Running a Complex Docker Compose
 
 - [Wallabag (GetPocket.com Clone)](https://github.com/wallabag/wallabag)
 - [Rocket.Chat (Slack Clone)](https://github.com/RocketChat/Rocket.Chat)
