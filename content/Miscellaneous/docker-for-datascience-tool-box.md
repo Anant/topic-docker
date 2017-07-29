@@ -1,4 +1,6 @@
-# Docker Container for Data Science Toolbox (DST)
+---
+---
+## Docker Container for Data Science Toolbox (DST)
 
 This docker container is to make all data science tools available in a container to start your data science work in seconds.
 
@@ -63,4 +65,3 @@ docker run -v `pwd`:/data -it data-science-toolbox sh
 
 
 Please feel free to make a pull request or tweet to me [@madhuakula](https://twitter.com/madhuakula) for improvements and suggestions
-
