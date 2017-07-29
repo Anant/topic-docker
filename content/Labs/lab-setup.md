@@ -3,17 +3,17 @@
 - [Quick Play on the Cloud](http://training.play-with-docker.com)
 - Verify Installation
     - Docker-Machine
-        - Create a machine 
-        - Verify it's running
+        - Create a machine `docker-machine start`
+        - Verify it's running `docker-machine ls`
 
     - Docker
         - Set the enviroment variables to connect to a machine
         - Verify that you can run docker
-            - docker pull hello-world
-            - docker run hello-world
+            - `docker pull hello-world`
+            - `docker run hello-world`
 
     - Docker-Compose
-        - Verify that you can run docker-compose
+        - Verify that you can run `docker-compose`
 
 - Resources
     - [Documentation: Install Docker Machine](https://docs.docker.com/machine/install-machine/)
