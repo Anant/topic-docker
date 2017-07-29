@@ -21,7 +21,5 @@ Sort: 1
     - [Slideshare: Introduction to Docker](https://www.slideshare.net/giancosta86/introduction-to-docker-43302266)
     - [Blog: Docker Tutorial Series (13 Parts)](https://rominirani.com/docker-tutorial-series-a7e6ff90a023)
     - [Site: Container Tutorials](http://containertutorials.com/index.html)
-    - [Awesome : Docker](https://github.com/veggiemonk/awesome-docker)
+    - [Article: 6 Essentials on Docker Containers](https://www.plesk.com/blog/business-industry/docker-containers-explained)
     - [Site: Docker Curriculum](https://prakhar.me/docker-curriculum)
-    - [Topic: Docker](http://anant.co/topic.html)
-    - [Article: 10 Open Source Docker Tools You Should Be Using](http://www.midvision.com/blog/10-open-source-docker-tools-you-should-be-using)
