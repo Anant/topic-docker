@@ -47,4 +47,4 @@ docker run -v `pwd`/content/:/data/content/ -v `pwd`/config/config.default.js:/o
 ---
 
 
-Please feel free to make a pull request or tweet to me [@xingh](https://twitter.com/xingh) for improvements and suggestions
+Please feel free to make a pull request. I'm also available on Twitter at [@xingh](https://twitter.com/xingh). My goal is to make this type of KB a template repository for more content similar to the awesome lists.
