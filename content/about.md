@@ -12,6 +12,7 @@ Resources
 - [Article: 10 Open Source Docker Tools You Should Be Using](http://www.midvision.com/blog/10-open-source-docker-tools-you-should-be-using)
 - [Article: Top Docker Tools: 51 Useful Docker..](https://stackify.com/top-docker-tools/)
 - [Article: 11 Docker Tools for Developers](https://www.weave.works/blog/11-docker-tools-developers/)
+- [Tool: Panamax](http://panamax.io/)
 
 
 Maintained by Rahul Singh of [Anant](http://anant.us). Feel free contact me if you'd like to collaborate on this and other awesome lists. 
