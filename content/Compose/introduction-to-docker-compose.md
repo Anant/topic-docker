@@ -12,3 +12,4 @@
     - [Slideshare: From Docker Run to Docker Compose](https://www.slideshare.net/fitraaditya/from-docker-run-to-docker-compose)
     - [Slideshare: Introduction to Docker Compose2](https://www.slideshare.net/RazielTabib/containers-101-introduction-to-docker-compose-v2)
     - [Article: Docker Container Clustering Tools](https://github.com/SoftInstigate/restheart/blob/master/Docker/docker-compose.yml)
+    - [Article: Docker vs. Kubernetes vs. Apache Mesos](https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/) 
