@@ -28,6 +28,7 @@ Sort: 3
         - [Blog: Article: Dockerize ASP.NET Core](http://kjanshair.azurewebsites.net/Blog/DockerizeAspNetCore)
         - [Blog: Article: ASP.NET Core on Docker in Azure](https://radu-matei.github.io/blog/aspnet-core-docker-azure/)
         - [Blog: Article: Windows Containers or Dockerize an Existing ASP.NET MVC 5 Application](https://www.ifesenko.com/blog/2017/01/18/Windows-Containers-or-Dockerize-an-existing-ASP-NET-MVC-5-application/)
+        - [Blog: Article: How to Dockerize Windows Applications](https://blog.sixeyed.com/how-to-dockerize-windows-applications/)
 
     - Dockerize a Java App
         - [Tutorial: Docerkize Java Application](https://runnable.com/docker/java/dockerize-your-java-application)
